@@ -2,6 +2,24 @@
 
 How can I store math notes as code?
 
+## Using Sage on Macos
+
+1. Install: `brew cask install sage`
+2. Run from spotlight/dock: 
+  - search using `cmd+spacebar` for "Sage" and run it.
+  - drag "Sage" into the dock
+  - Sage will load a jupyter notebook.
+  - You will be asked where to store your notebooks
+
+- EXTRA: Run from terminal: `sage --notebook=jupyter`
+  - This works fine
+  - Seems like I end up with multiple instances and the port used is incremented each time
+  - Notebooks will default to your `$HOME` path
+
+- DEPRECATED: Run from terminal: `sage -n`
+  - I think sage has converted completely to jupyter?
+  - The old method was `sage -n` which still works but gives a page with a manual redirect
+
 ## Is this form of expression useful for initial problem solving?
 
 If I put the problem in and get the solution, then I've ruined the problem. I should solve it first from my available context (e.g. book, lectures, similar problems in the set or previous sets).
