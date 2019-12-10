@@ -41,8 +41,8 @@ Once I have a problem and a solution, I can simply express the intermediate step
 
 Given a math problem and solution, I can build a manifold of steps that get there.
 
-Typically humans consider "showing your work" to be a sufficiently short path from the problem to the solution.
+Typically we consider "showing your work" to be following the main path, based on the context you are given, from the problem to the solution.
 
-Most problem-solution pairs are intended to cross a set of `critical facts` that cannot be bypassed anyways.
+Most problem-solution pairs are intended to cross a set of `critical facts` that cannot be bypassed anyways. Otherwise the problem might be considered poorly designed or simply to have multiple "ways to get there".
 
-Still, it's interesting to think of isomorphic problem spaces and transformations as this repo grows.
+It's interesting to think of isomorphic problem spaces and transformations as this repo grows.
