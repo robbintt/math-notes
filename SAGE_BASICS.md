@@ -9,6 +9,7 @@ Collecting some code patterns for representing problems in sage.
 
 It uses Sage's interface to [Maxima](http://maxima.sourceforge.net/) a Computer Algebra System.
 
+- [Sage Maxima Docs](http://doc.sagemath.org/html/en/tutorial/interfaces.html#section-maxima)
 - [Tutorial: How to Investigate Ordinary Differential Equations](http://doc.sagemath.org/html/en/tutorial/tour_algebra.html#solving-differential-equations)
 - [Sage Constructions: Ordinary Differential Equtions](http://doc.sagemath.org/html/en/constructions/calculus.html#ordinary-differential-equations)
 
